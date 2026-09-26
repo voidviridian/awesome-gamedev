@@ -32,28 +32,36 @@ This is a page I'm doing as a way to clean my bookmarks and persist them. Maybe 
 ### Wikipedia
 
 - [anemoia](https://en.wiktionary.org/wiki/anemoia)
+- [Ataraxia](https://en.wikipedia.org/wiki/Ataraxia)
 - [Big Five personality traits](https://en.wikipedia.org/wiki/Big_Five_personality_traits)
 - [chrysalism](https://en.wiktionary.org/wiki/chrysalism)
 - [Emotion](https://en.wikipedia.org/wiki/Emotion)
 - [Fabula and syuzhet](https://en.wikipedia.org/wiki/Fabula_and_syuzhet)
+- [Glosa](https://en.wikipedia.org/wiki/Glosa)
 - [Hiraeth](https://en.wikipedia.org/wiki/Hiraeth)
+- [Ido](https://en.wikipedia.org/wiki/Ido)
+- [International auxiliary language](https://en.wikipedia.org/wiki/International_auxiliary_language)
 - [kenopsia](https://en.wiktionary.org/wiki/kenopsia)
+- [Kotava](https://en.wikipedia.org/wiki/Kotava)
 - [List of emotions](https://simple.wikipedia.org/wiki/List_of_emotions)
 - [List of philosophical concepts](https://en.wikipedia.org/wiki/List_of_philosophical_concepts)
 - [mauerbauertraurigkeit](https://en.wiktionary.org/wiki/mauerbauertraurigkeit)
 - [monachopsis](https://en.wiktionary.org/wiki/monachopsis)
 - [Morse code](https://en.wikipedia.org/wiki/Morse_code)
 - [Narrative](https://en.wikipedia.org/wiki/Narrative)
+- [Neo language](https://en.wikipedia.org/wiki/Neo_language)
+- [Novial](https://en.wikipedia.org/wiki/Novial)
 - [occhiolism](https://en.wiktionary.org/wiki/occhiolism)
 - [Pangaea Proxima](https://en.wikipedia.org/wiki/Pangaea_Proxima)
 - [Personality](https://en.wikipedia.org/wiki/Personality)
 - [Radio operator](https://en.wikipedia.org/wiki/Radio_operator)
 - [Story structure](https://en.wikipedia.org/wiki/Story_structure)
 - [Stream of consciousness](https://en.wikipedia.org/wiki/Stream_of_consciousness)
+- [Uropi](https://en.wikipedia.org/wiki/Uropi)
 - [vellichor](https://en.wiktionary.org/wiki/vellichor)
 - [Zero-knowledge proof](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
 - []()
-  
+
 ## Pixel Art
 
 - [Pixel Art Tutorials by Saint 11](https://saint11.art/blog/pixel-art-tutorials/)
