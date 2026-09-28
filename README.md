@@ -4,63 +4,54 @@ This is a page I'm doing as a way to clean my bookmarks and persist them. Maybe 
 
 ## Assets
 
+- [5x5 Pixel font for tiny screens](https://maurycyz.com/projects/mcufont/)
 - [Godot Shaders](https://godotshaders.com/)
+- []()
+
+### 3d
+
+- [Poly Haven](https://polyhaven.com/)
+- []()
 
 ### Pictures
 
 - [pexels](https://www.pexels.com/)
+- [unsplash](https://unsplash.com/)
+- []()
 
 ### Sounds
 
 - [freesound](https://freesound.org/)
+- []()
 
 ## Knowledge
 
+- [Ditherpunk — The article I wish I had about monochrome image dithering ](https://surma.dev/things/ditherpunk/)
 - [Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html)
 - [Generating an infinite world with the Wave Function Collapse algorithm](https://marian42.de/article/infinite-wfc/)
 - [How to Build Anything Extremely Quickly](https://learnhowtolearn.org/how-to-build-extremely-quickly/)
-- [Mini: The Minimal Language](https://minilanguage.com/)
+- [Maze Algorithms](https://www.jamisbuck.org/mazes/)
 - [Maze Generation: Kruskal's Algorithm](https://weblog.jamisbuck.org/2011/1/3/maze-generation-kruskal-s-algorithm)
+- [Maze Generation](https://bost.ocks.org/mike/algorithms/#maze-generation)
+- [Mini Word List / Mini Name Seri](https://minilanguage.com/name-seri.txt)
+- [Mini: The Minimal Language](https://minilanguage.com/)
+- [Morse Code Timing Rules: The 1:3:7 Standard Explained](https://www.morsehub.com/morse-code-timing-rules)
+- [Music theory for programmers](https://runjs.app/blog/music-theory-for-programmers)
+- [Official Toki Pona Dictionary](https://jan-ne.github.io/tp/dictionary)
+- [Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/)
+- [Return of the Obra Dinn [Releasing Oct 18]](https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742)
 - [Rooms and Mazes: A Procedural Dungeon Generator](https://journal.stuffwithstuff.com/2014/12/21/rooms-and-mazes/)$
+- [Software rendering in 500 lines of bare C++](https://haqr.eu/tinyrenderer/)
+- [Tutorial 33: Fire](https://rastertek.com/gl4linuxtut33.html)
 - [What I've learned about flow fields so far.](https://damoonrashidi.me/articles/flow-field-methods)
+- [Why Every Indie Dev Should Study Game Design Theory (Yes, Really)](https://24indie.com/why-every-indie-dev-should-study-game-design-theory-yes-really/)
 - [Why I absolutely love making small games and why you should do it too](https://www.reddit.com/r/gamedev/comments/1efyve7/why_i_absolutely_love_making_small_games_and_why/?rdt=60345)
 - [Writing a Game Boy Advance Game](https://www.reinterpretcast.com/writing-a-game-boy-advance-game)
-- [Maze Algorithms](https://www.jamisbuck.org/mazes/)
-- [Maze Generation](https://bost.ocks.org/mike/algorithms/#maze-generation)
 - []()
 
-### Wikipedia
+## Podcast
 
-- [anemoia](https://en.wiktionary.org/wiki/anemoia)
-- [Ataraxia](https://en.wikipedia.org/wiki/Ataraxia)
-- [Big Five personality traits](https://en.wikipedia.org/wiki/Big_Five_personality_traits)
-- [chrysalism](https://en.wiktionary.org/wiki/chrysalism)
-- [Emotion](https://en.wikipedia.org/wiki/Emotion)
-- [Fabula and syuzhet](https://en.wikipedia.org/wiki/Fabula_and_syuzhet)
-- [Glosa](https://en.wikipedia.org/wiki/Glosa)
-- [Hiraeth](https://en.wikipedia.org/wiki/Hiraeth)
-- [Ido](https://en.wikipedia.org/wiki/Ido)
-- [International auxiliary language](https://en.wikipedia.org/wiki/International_auxiliary_language)
-- [kenopsia](https://en.wiktionary.org/wiki/kenopsia)
-- [Kotava](https://en.wikipedia.org/wiki/Kotava)
-- [List of emotions](https://simple.wikipedia.org/wiki/List_of_emotions)
-- [List of philosophical concepts](https://en.wikipedia.org/wiki/List_of_philosophical_concepts)
-- [mauerbauertraurigkeit](https://en.wiktionary.org/wiki/mauerbauertraurigkeit)
-- [monachopsis](https://en.wiktionary.org/wiki/monachopsis)
-- [Morse code](https://en.wikipedia.org/wiki/Morse_code)
-- [Narrative](https://en.wikipedia.org/wiki/Narrative)
-- [Neo language](https://en.wikipedia.org/wiki/Neo_language)
-- [Novial](https://en.wikipedia.org/wiki/Novial)
-- [occhiolism](https://en.wiktionary.org/wiki/occhiolism)
-- [Pangaea Proxima](https://en.wikipedia.org/wiki/Pangaea_Proxima)
-- [Personality](https://en.wikipedia.org/wiki/Personality)
-- [Radio operator](https://en.wikipedia.org/wiki/Radio_operator)
-- [Story structure](https://en.wikipedia.org/wiki/Story_structure)
-- [Stream of consciousness](https://en.wikipedia.org/wiki/Stream_of_consciousness)
-- [Two envelopes problem](https://en.wikipedia.org/wiki/Two_envelopes_problem)
-- [Uropi](https://en.wikipedia.org/wiki/Uropi)
-- [vellichor](https://en.wiktionary.org/wiki/vellichor)
-- [Zero-knowledge proof](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
+- [Open Indie](https://openindie.eu/)
 - []()
 
 ## Pixel Art
@@ -69,29 +60,40 @@ This is a page I'm doing as a way to clean my bookmarks and persist them. Maybe 
 
 ## Playdate
 
+- [A Technical Survey of 3D Graphics in Playdate Games](https://www.peterstefek.me/playdate3d.html)
+- [Building a Tiny 3D Renderer for a Tiny Handheld](https://saffroncr.itch.io/katavatis/devlog/1534514/building-a-tiny-3d-renderer-for-a-tiny-handheld)
 - [Catalog link badges](https://help.play.date/developer/catalog-link-badges/)
-- [Scoreboard API](https://help.play.date/catalog-developer/scoreboard-api/#scoreboards-and-caching)
+- [dioragame devlog](https://dioragame.com/devlog/)
 - [pd-achievements](https://github.com/PlaydateSquad/pd-achievements)
+- [PDF Font conv](https://pdfontconv.frozenfractal.com/)
 - [pdScoreboards](https://github.com/PlaydateSquad/pdScoreboards/tree/main)
 - [Playdate Community Census 2024](https://playdate-wiki.com/wiki/Playdate_Community_Census_2024)
-- [PDF Font conv](https://pdfontconv.frozenfractal.com/)
+- [Scoreboard API](https://help.play.date/catalog-developer/scoreboard-api/#scoreboards-and-caching)
+- []()
 
 ## Social
 
 - [My 9 games](https://my9games.com/)
+- []()
 
 ## Tools
 
+- [Dialogue Manager 4 for Godot 4.6+](https://github.com/nathanhoad/godot_dialogue_manager?tab=readme-ov-file)
+- [dialogueforge](https://www.dialogueforge.org/)
+- [opentoonz](https://opentoonz.github.io/e/)
 - [SpriteStack2D](https://github.com/VitSoonYoung/SpriteStack2D)
+- []()
 
 ### 2d
 
 - [callipeg](https://callipeg.com/)
-- [toonsquid](https://toonsquid.com/)
 - [natron](https://natrongithub.github.io/)
+- [toonsquid](https://toonsquid.com/)
+- []()
 
 ## Youtube
 
+- [ The Darkest Books Explained In 80 Minutes (All Parts) ](https://www.youtube.com/watch?v=FAO8zpFVuE8)
 - [10+1 INCREDIBLE addons for Godot 4](https://www.youtube.com/watch?v=zOtpqoangVs)
 - [18 Laws of Gamedev Everyone Knows But No One Follows](https://www.youtube.com/watch?v=RH3OrCPAr8I)
 - [3 SIMPLE Rules for Catchy Melodies EVERY Time 🎹](https://www.youtube.com/watch?v=rXJka9Rb0Bo)
@@ -153,4 +155,49 @@ This is a page I'm doing as a way to clean my bookmarks and persist them. Maybe 
 - [Why I'm Using Wave Function Collapse for Procedural Terrain | Unity Devlog](https://www.youtube.com/watch?v=20KHNA9jTsE)
 - [Worldbuilding Around Uncaring Characters - Brandon Sanderson's Writing Lecture #9](https://www.youtube.com/shorts/PF4CWWzU5ts)
 - [Write Your Urban Fantasy Better - Brandon Sanderson Writing Lecture 9](https://www.youtube.com/shorts/LTEmkYfMySY)
+- []()
+
+## Wikipedia
+
+- [anemoia](https://en.wiktionary.org/wiki/anemoia)
+- [Ataraxia](https://en.wikipedia.org/wiki/Ataraxia)
+- [Bartle taxonomy of player types](https://en.wikipedia.org/wiki/Bartle_taxonomy_of_player_types)
+- [Big Five personality traits](https://en.wikipedia.org/wiki/Big_Five_personality_traits)
+- [Categories (Peirce)](https://en.wikipedia.org/wiki/Categories_(Peirce))
+- [chrysalism](https://en.wiktionary.org/wiki/chrysalism)
+- [Emotion](https://en.wikipedia.org/wiki/Emotion)
+- [Fabula and syuzhet](https://en.wikipedia.org/wiki/Fabula_and_syuzhet)
+- [George Alec Effinger](https://en.wikipedia.org/wiki/George_Alec_Effinger)
+- [Glosa](https://en.wikipedia.org/wiki/Glosa)
+- [GNS theory](https://en.wikipedia.org/wiki/GNS_theory)
+- [Hiraeth](https://en.wikipedia.org/wiki/Hiraeth)
+- [Ido](https://en.wikipedia.org/wiki/Ido)
+- [International auxiliary language](https://en.wikipedia.org/wiki/International_auxiliary_language)
+- [kenopsia](https://en.wiktionary.org/wiki/kenopsia)
+- [Kotava](https://en.wikipedia.org/wiki/Kotava)
+- [List of emotions](https://simple.wikipedia.org/wiki/List_of_emotions)
+- [List of philosophical concepts](https://en.wikipedia.org/wiki/List_of_philosophical_concepts)
+- [mauerbauertraurigkeit](https://en.wiktionary.org/wiki/mauerbauertraurigkeit)
+- [monachopsis](https://en.wiktionary.org/wiki/monachopsis)
+- [Morse code](https://en.wikipedia.org/wiki/Morse_code)
+- [Narrative](https://en.wikipedia.org/wiki/Narrative)
+- [Neo language](https://en.wikipedia.org/wiki/Neo_language)
+- [Novial](https://en.wikipedia.org/wiki/Novial)
+- [occhiolism](https://en.wiktionary.org/wiki/occhiolism)
+- [Pangaea Proxima](https://en.wikipedia.org/wiki/Pangaea_Proxima)
+- [Personality](https://en.wikipedia.org/wiki/Personality)
+- [Radio operator](https://en.wikipedia.org/wiki/Radio_operator)
+- [Story structure](https://en.wikipedia.org/wiki/Story_structure)
+- [Stream of consciousness](https://en.wikipedia.org/wiki/Stream_of_consciousness)
+- [Two envelopes problem](https://en.wikipedia.org/wiki/Two_envelopes_problem)
+- [Uropi](https://en.wikipedia.org/wiki/Uropi)
+- [vellichor](https://en.wiktionary.org/wiki/vellichor)
+- [Zero-knowledge proof](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
+- []()
+
+### Other
+
+- [animejs](https://animejs.com/)
+- [Fantasy console](https://papoo.work/u/fantasyconsole)
+- [XeldarAlz/awesome-indie-gamedev](https://github.com/XeldarAlz/awesome-indie-gamedev)
 - []()
