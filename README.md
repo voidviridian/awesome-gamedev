@@ -11,6 +11,7 @@ This is a page I'm doing as a way to clean my bookmarks and persist them. Maybe 
 ### 3d
 
 - [Poly Haven](https://polyhaven.com/)
+- [poly pizza](https://poly.pizza/)
 - []()
 
 ### Pictures
