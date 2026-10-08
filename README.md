@@ -150,6 +150,7 @@ This is a page I'm doing as a way to clean my bookmarks and persist them. Maybe 
 - [The Secret to a Well Paced Plot (and it's ridiculously easy) | Writing Tips](https://www.youtube.com/watch?v=bMGUEwbumw8)
 - [The Secret Trick That Changes Anyone’s Identity | Chase Hughes](https://www.youtube.com/shorts/26cc0diniuY)
 - [The Zeroth Writing Law - Brandon Sanderson's Writing Lecture #9](https://www.youtube.com/shorts/x3rbqmfc4hU)
+- [ There are only 12 Plots ](https://www.youtube.com/watch?v=Q2wOXYSq9mM)
 - [This Free & OpenSource Character Creator Has Got An Upgrade!](https://www.youtube.com/watch?v=UTuKLXHfGaU)
 - [This Tiny Algorithm Can Render BILLIONS of Voxels in Real Time](https://www.youtube.com/watch?v=ztkh1r1ioZo)
 - [Using the Mirror Is Cheating - Brandon Sanderson's Writing Lecture #](https://www.youtube.com/shorts/eHT1ZG4eEjA)
